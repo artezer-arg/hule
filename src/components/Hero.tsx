@@ -36,9 +36,9 @@ export const Hero: React.FC = () => {
           {/* Hero Headline */}
           <RevealAnimation variant="fade-up" delay={0.25}>
             <h1 className="font-serif-tight text-[3.2rem] sm:text-[4.5rem] lg:text-[5.5rem] leading-[1.02] tracking-tight text-[#4B2032] mb-6 font-bold">
-              Hecho para<br />
-              <span className="text-[#CB4178] relative inline-block">
-                celebrar
+              Globos, color<br />
+              y toda la <span className="text-[#CB4178] relative inline-block">
+                magia
                 {/* Underline ornament SVG */}
                 <svg className="absolute left-0 bottom-[-4px] w-full h-[6px]" viewBox="0 0 100 10" preserveAspectRatio="none">
                   <path d="M0,7 C30,2 70,2 100,7" stroke="#CB4178" strokeWidth="2.5" fill="none" strokeLinecap="round" />
